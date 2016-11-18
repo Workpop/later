@@ -25,7 +25,7 @@
     "smash": "~0.0.8",
     "mocha": "*",
     "should": ">=0.6.3",
-    "jslint": "*",
+    "jslint": ">=0.10.3",
     "uglify-js": "*",
     "benchmark": "*"
   },
