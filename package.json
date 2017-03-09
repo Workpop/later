@@ -24,7 +24,7 @@
   "devDependencies": {
     "smash": "~0.0.8",
     "mocha": "*",
-    "should": ">=0.6.3",
+    "should": ">=11.2.1",
     "jslint": "*",
     "uglify-js": "*",
     "benchmark": "*"
